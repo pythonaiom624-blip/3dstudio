@@ -1,0 +1,1 @@
+# ３D Studio Git 練習用
